@@ -27,15 +27,7 @@
 
 ---
 
-## Capturas de pantalla 📸
 
-### Agregar amigos
-![Agregar amigos](screenshots/agregar-amigos.png)
-
-### Realizar el sorteo
-![Realizar el sorteo](screenshots/sorteo.png)
-
----
 
 ## Tecnologías utilizadas 🛠️
 
@@ -57,10 +49,5 @@ Si deseas contribuir a este proyecto, sigue estos pasos:
 
 ---
 
-## Licencia 📄
-
-Este proyecto está bajo la licencia [MIT](LICENSE).
-
----
 
 ¡Gracias por usar **Amigo Secreto**! 🎉
